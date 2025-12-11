@@ -108,7 +108,7 @@ export default function Contact() {
     {
       icon: <SiLeetcode className="w-6 h-6" />,
       label: "LeetCode",
-      href: "https://leetcode.com/anujparwal/",
+      href: "https://leetcode.com/u/parwal_anuj/",
       color: "hover:text-orange-500",
     },
   ];
