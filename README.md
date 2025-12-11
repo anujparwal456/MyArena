@@ -1,5 +1,5 @@
 # Who I am?
-this is my portfolio.
+This is my portfolio.
 
 ## Requirements
 
